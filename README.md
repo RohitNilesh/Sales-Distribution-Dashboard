@@ -42,4 +42,4 @@ To design and deliver a user-friendly business intelligence dashboard that provi
 *(Insert dashboard image here)*  
 You can upload the image as part of the repository and embed like:
 ```markdown
-![Dashboard Preview]("C:\Users\NILESH\Documents\GitHub\Sales_Distribution_Dashboard\Snapshot\SD_Theme.png".png)
+![Dashboard Preview](Snapshot\SD_Theme.png)
