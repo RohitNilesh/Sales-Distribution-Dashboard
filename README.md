@@ -39,6 +39,8 @@ To design and deliver a user-friendly business intelligence dashboard that provi
 ## 📸 Screenshots
 
 ### 🖼️ Dashboard Preview
-
+*(Insert dashboard image here)*  
+You can upload the image as part of the repository and embed like:
+```markdown
 ![Dashboard Preview](!["Snapshot\SD_Theme.png"]()
 )
