@@ -40,6 +40,5 @@ To design and deliver a user-friendly business intelligence dashboard that provi
 
 ### 🖼️ Dashboard Preview
 
-```markdown
-![Dashboard Preview](!["Snapshot\SD_Theme.png"]()
+["Snapshot\SD_Theme.png"]()
 )
