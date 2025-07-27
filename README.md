@@ -35,12 +35,10 @@ To design and deliver a user-friendly business intelligence dashboard that provi
 - 🧮 Slicers for dynamic filtering by Segment, Region, and Product
 
 ---
-
 ## 📸 Screenshots
 
 ### 🖼️ Dashboard Preview
 *(Insert dashboard image here)*  
 You can upload the image as part of the repository and embed like:
 ```markdown
-![Dashboard Preview](![SD_Theme](https://github.com/user-attachments/assets/8c61866c-bba3-4991-8bb8-6487c473272a)
-)
+![Dashboard Preview](!(Snapshot/SD_Theme.png)
