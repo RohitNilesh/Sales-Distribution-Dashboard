@@ -40,5 +40,5 @@ To design and deliver a user-friendly business intelligence dashboard that provi
 
 ### 🖼️ Dashboard Preview
 
-![Dashboard Preview](!["C:\Users\NILESH\Documents\GitHub\Sales-Distribution-Dashboard\Snapshot\SD_Theme.png"]()
+![Dashboard Preview](!["Snapshot\SD_Theme.png"]()
 )
